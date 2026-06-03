@@ -6,7 +6,7 @@
 
 
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que utilizo no meu dia a dia.
 
 <div style="display: inline block"><br/>
 <img align="center"  alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,4 +15,4 @@
 <div><br>
 
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia e educação, com o propósito de transformar a vida das pessoas por meio da programação.
